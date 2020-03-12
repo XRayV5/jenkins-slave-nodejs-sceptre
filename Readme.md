@@ -1,0 +1,1 @@
+Docker image based on Ubuntu 18.04 features nodejs V12 and Sceptre
